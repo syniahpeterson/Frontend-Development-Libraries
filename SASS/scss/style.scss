@@ -1,0 +1,104 @@
+// Challenge 1
+$text-color: red;
+.header {
+  text-align: center;
+}
+.blog-post,
+h2 {
+  color: $text-color;
+}
+
+// Challenge 2
+.blog-post2 {
+  h1 {
+    text-align: center;
+    color: blue;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
+
+// Challenge 3
+@mixin shape($w, $h, $bg-color) {
+  width: $w;
+  height: $h;
+  background-color: $bg-color;
+}
+#square {
+  @include shape(50px, 50px, red);
+}
+
+#rect-a {
+  @include shape(100px, 50px, blue);
+}
+
+#rect-b {
+  @include shape(50px, 100px, orange);
+}
+
+// Challenge 4
+@mixin border-stroke($val) {
+  @if $val == light {
+    border: 1px solid black;
+  } @else if $val == medium {
+    border: 3px solid black;
+  } @else if $val == heavy {
+    border: 6px solid black;
+  } @else {
+    border: none;
+  }
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  @include border-stroke(medium);
+}
+
+// Challenge 5
+@for $j from 1 to 6 {
+  .text-#{$j} {
+    font-size: 15px * $j;
+  }
+}
+
+// Challenge 6
+@each $color in blue, black, red {
+  .#{$color}-bg {
+    background-color: $color;
+  }
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+// Challenge 7
+$i: 1;
+@while $i < 6 {
+  .text-#{$i} {
+    font-size: 15px * $i;
+  }
+  $i: $i + 1;
+}
+
+// Challenge 8
+@import "variables";
+
+// Challenge 9
+h3 {
+  text-align: center;
+}
+.info {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.info-important {
+  @extend .info;
+  background-color: magenta;
+}

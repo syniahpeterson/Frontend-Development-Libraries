@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../scss/style.scss",
+    "../scss/_variables.scss"
+  ],
+  "names": [],
+  "mappings": "AAEA;EACE;;;AAEF;AAAA;EAEE,OANW;;;AAWX;EACE;EACA;;AAGF;EACE;;;AAUJ;EAJE,OAKe;EAJf,QAIqB;EAHrB,kBAG2B;;;AAG7B;EARE,OASe;EARf,QAQsB;EAPtB,kBAO4B;;;AAG9B;EAZE,OAae;EAZf,QAYqB;EAXrB,kBAW4B;;;AAgB9B;EACE;EACA;EACA;EAXE;;;AAiBF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AAMF;EACE,kBAFY;;;AACd;EACE,kBAFY;;;AACd;EACE,kBAFY;;;AAMhB;EACE;EACA;;;AAMA;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;ACnFJ;EACI;EACA;EACA;EACA;EACA;EACA;;;ADsFJ;EACE;;;AAEF;EACE;EACA;EACA;;;AAEF;EAEE",
+  "file": "style.css"
+}
