@@ -1,4 +1,4 @@
-|
+Projects: |
 ### Bootstrap Challenges:
 - [Bootstrap](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap){:target="_blank"}
 - [Bootstrap 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap/index2.html){:target="_blank"}
