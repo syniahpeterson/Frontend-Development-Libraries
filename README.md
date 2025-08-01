@@ -1,41 +1,44 @@
-Projects: |
-### Bootstrap Challenges:
-- [Bootstrap](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap){:target="_blank"}
-- [Bootstrap 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap/index2.html){:target="_blank"}
-### jQuery Challenges:
-- [jQuery](https://syniahpeterson.github.io/Frontend-Development-Libraries/jQuery){:target="_blank"}
-### SASS Challenges:
-- [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html){:target="_blank"}  
-- [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html){:target="_blank"}  
-- [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html){:target="_blank"}  
-- [SASS 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge4.html){:target="_blank"}  
-- [SASS 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge5.html){:target="_blank"}  
-- [SASS 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge6.html){:target="_blank"}  
-- [SASS 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge7.html){:target="_blank"}  
-- [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html){:target="_blank"}  
-- [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html){:target="_blank"}
-### React Challenges:
-- [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/){:target="_blank"}
-- [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/){:target="_blank"}
-- [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/){:target="_blank"}
-- [React 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-4/){:target="_blank"}
-- [React 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-5/){:target="_blank"}
-- [React 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-6/){:target="_blank"}
-- [React 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-7/){:target="_blank"}
-- [React 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-8/){:target="_blank"}
-- [React 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-9/){:target="_blank"}
-- [React 10](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-10/){:target="_blank"}
-- [React 11](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-11/){:target="_blank"}
-- [React 12](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-12/){:target="_blank"}
-- [React 13](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-13/){:target="_blank"}
-- [React 14](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-14/){:target="_blank"}
-- [React 15](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-15/){:target="_blank"}
-- [React 16](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-16/){:target="_blank"}
-- [React 17](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-17/){:target="_blank"}
-- [React 18](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-18/){:target="_blank"}
-- [React 19](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-19/){:target="_blank"}
-- [React 20](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-20/){:target="_blank"}
-- [React 21](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-21/){:target="_blank"}
-- [React 22](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-22/){:target="_blank"}
-- [React 23](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-23/){:target="_blank"}
-- [React 24](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-24/){:target="_blank"}
+description: |
+  ### Bootstrap Challenges
+  - [Bootstrap](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap)
+  - [Bootstrap 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap/index2.html)
+
+  ### jQuery Challenges
+  - [jQuery](https://syniahpeterson.github.io/Frontend-Development-Libraries/jQuery)
+
+  ### SASS Challenges:
+  - [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html){:target="_blank"}  
+  - [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html){:target="_blank"}  
+  - [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html){:target="_blank"}  
+  - [SASS 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge4.html){:target="_blank"}  
+  - [SASS 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge5.html){:target="_blank"}  
+  - [SASS 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge6.html){:target="_blank"}  
+  - [SASS 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge7.html){:target="_blank"}  
+  - [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html){:target="_blank"}  
+  - [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html){:target="_blank"}
+    
+  ### React Challenges:
+  - [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/){:target="_blank"}
+  - [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/){:target="_blank"}
+  - [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/){:target="_blank"}
+  - [React 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-4/){:target="_blank"}
+  - [React 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-5/){:target="_blank"}
+  - [React 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-6/){:target="_blank"}
+  - [React 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-7/){:target="_blank"}
+  - [React 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-8/){:target="_blank"}
+  - [React 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-9/){:target="_blank"}
+  - [React 10](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-10/){:target="_blank"}
+  - [React 11](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-11/){:target="_blank"}
+  - [React 12](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-12/){:target="_blank"}
+  - [React 13](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-13/){:target="_blank"}
+  - [React 14](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-14/){:target="_blank"}
+  - [React 15](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-15/){:target="_blank"}
+  - [React 16](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-16/){:target="_blank"}
+  - [React 17](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-17/){:target="_blank"}
+  - [React 18](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-18/){:target="_blank"}
+  - [React 19](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-19/){:target="_blank"}
+  - [React 20](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-20/){:target="_blank"}
+  - [React 21](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-21/){:target="_blank"}
+  - [React 22](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-22/){:target="_blank"}
+  - [React 23](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-23/){:target="_blank"}
+  - [React 24](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-24/){:target="_blank"}
