@@ -1,12 +1,11 @@
-description: |
-  ### Bootstrap Challenges
+### Bootstrap Challenges
   - [Bootstrap](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap)
   - [Bootstrap 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Bootstrap/index2.html)
 
-  ### jQuery Challenges
+### jQuery Challenges
   - [jQuery](https://syniahpeterson.github.io/Frontend-Development-Libraries/jQuery)
 
-  ### SASS Challenges:
+### SASS Challenges:
   - [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html){:target="_blank"}  
   - [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html){:target="_blank"}  
   - [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html){:target="_blank"}  
@@ -16,8 +15,8 @@ description: |
   - [SASS 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge7.html){:target="_blank"}  
   - [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html){:target="_blank"}  
   - [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html){:target="_blank"}
-    
-  ### React Challenges:
+
+### React Challenges:
   - [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/){:target="_blank"}
   - [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/){:target="_blank"}
   - [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/){:target="_blank"}
