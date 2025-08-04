@@ -2,13 +2,43 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import { createStore } from "redux";
 
-const store = createStore (
-  (state = 8) => state
-);
+const LOGIN = "LOGIN";
+const LOGOUT = "LOGOUT";
 
-// Change code below this line
-const currentState = store.getState()
-const App = () => <h1>{currentState}</h1>;
+const defaultState = {
+  authenticated: false,
+};
+
+const authReducer = (state = defaultState, action) => {
+  switch (action.type) {
+    case LOGIN:
+      return {
+        authenticated: true,
+      };
+    case LOGOUT:
+      return {
+        authenticated: false,
+      };
+
+    default:
+      return state;
+  }
+};
+
+const store = createStore(authReducer);
+const loginUser = () => {
+  return {
+    type: LOGIN,
+  };
+};
+
+const logoutUser = () => {
+  return {
+    type: LOGOUT,
+  };
+};
+
+const App = () => <h1>Challenge 8 - Use const for Action Types</h1>;
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);
