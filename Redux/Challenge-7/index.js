@@ -2,40 +2,60 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import { createStore } from "redux";
 
+// Default state
 const defaultState = {
   authenticated: false,
 };
 
+// Reducer
 const authReducer = (state = defaultState, action) => {
-  // Change code below this line
   switch (action.type) {
     case "LOGIN":
       return { authenticated: true };
     case "LOGOUT":
       return { authenticated: false };
     default:
-      return defaultState;
+      return state;
   }
-  // Change code above this line
 };
 
 const store = createStore(authReducer);
 
-const loginUser = () => {
-  return {
-    type: "LOGIN",
-  };
-};
+// Action creators
+const loginUser = () => ({ type: "LOGIN" });
+const logoutUser = () => ({ type: "LOGOUT" });
 
-const logoutUser = () => {
-  return {
-    type: "LOGOUT",
-  };
-};
+// Dispatch both actions to test reducer
+store.dispatch(loginUser());
+const afterLogin = store.getState();
+store.dispatch(logoutUser());
+const afterLogout = store.getState();
 
-// Change code below this line
+// App component
 const App = () => (
-  <h1>Challenge 7 - Use a Switch Statement to Handle Multiple Actions</h1>
+  <div>
+    <h1>Challenge 7 - Use a Switch Statement to Handle Multiple Actions</h1>
+
+    <h2>Code:</h2>
+    <pre>
+      {`switch (action.type) {
+  case "LOGIN":
+    return { authenticated: true };
+  case "LOGOUT":
+    return { authenticated: false };
+  default:
+    return state;
+}`}
+    </pre>
+
+    <h2>Output:</h2>
+    <p>
+      <strong>After LOGIN:</strong> {JSON.stringify(afterLogin)}
+    </p>
+    <p>
+      <strong>After LOGOUT:</strong> {JSON.stringify(afterLogout)}
+    </p>
+  </div>
 );
 
 const root = createRoot(document.getElementById("root"));

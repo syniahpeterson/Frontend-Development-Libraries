@@ -29,7 +29,30 @@ console.log(count);
 store.dispatch({ type: ADD });
 console.log(count);
 
-const App = () => <h1>Challenge 9 - Register a Store Listener</h1>;
+const App = () => {
+  return (
+    <div>
+      <h1>Challenge 9 - Register a Store Listener</h1>
+
+      <h2>Code:</h2>
+      <pre>
+        <code>
+          {`// Global count variable:
+let count = 0;
+
+store.subscribe(() => (count += 1));
+
+store.dispatch({ type: ADD });
+store.dispatch({ type: ADD });
+store.dispatch({ type: ADD });`}
+        </code>
+      </pre>
+
+      <h2>Output:</h2>
+      <h3>Listener called: {count} times</h3>
+    </div>
+  );
+};
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);

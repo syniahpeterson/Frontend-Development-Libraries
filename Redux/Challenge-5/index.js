@@ -12,7 +12,21 @@ const loginAction = () => {
 
 // Dispatch the action here:
 store.dispatch(loginAction());
-const App = () => <h1>Challenge 5 - Dispatch an Action Event</h1>;
+console.log(store.dispatch(loginAction()));
+const App = () => {
+  return (
+    <div>
+      <h1>Challenge 5 - Dispatch an Action Event</h1>
+      <h2>Code: </h2>
+      <pre>
+        <code>store.dispatch(loginAction());</code>
+      </pre>
+      <h2>Output: </h2>
+      <h3>Dispatched Action: {JSON.stringify(loginAction())}</h3>
+      <h3>Current State: {JSON.stringify(store.getState())}</h3>
+    </div>
+  );
+};
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);

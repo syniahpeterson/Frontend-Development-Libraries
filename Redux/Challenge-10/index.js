@@ -41,7 +41,28 @@ const rootReducer = combineReducers({
 
 const store = createStore(rootReducer);
 
-const App = () => <h1>Challenge 10 - Combine Multiple Reducers</h1>;
+const App = () => {
+  return (
+    <div>
+      <h1>Challenge 10 - Combine Multiple Reducers</h1>
+
+      <h2>Code:</h2>
+      <pre>
+        <code>
+          {`const rootReducer = combineReducers({
+  count: counterReducer,
+  auth: authReducer,
+});
+
+const store = createStore(rootReducer);`}
+        </code>
+      </pre>
+
+      <h2>Output:</h2>
+      <pre>{JSON.stringify(store.getState(), null, 2)}</pre>
+    </div>
+  );
+};
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);
