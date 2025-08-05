@@ -2,13 +2,54 @@ import React from "react";
 import { createRoot } from "react-dom/client";
 import { createStore } from "redux";
 
-const store = createStore (
-  (state = 15) => state
-);
+const immutableReducer = (state = ["Do not mutate state!"], action) => {
+  switch (action.type) {
+    case "ADD_TO_DO":
+      return [...state, action.todo];
+    default:
+      return state;
+  }
+};
 
-// Change code below this line
-const currentState = store.getState()
-const App = () => <h1>{currentState}</h1>;
+const addToDo = (todo) => {
+  return {
+    type: "ADD_TO_DO",
+    todo,
+  };
+};
+
+const store = createStore(immutableReducer);
+
+// Dispatch some test actions
+store.dispatch(addToDo("Finish homework"));
+store.dispatch(addToDo("Read a book"));
+
+const App = () => {
+  return (
+    <div>
+      <h1>Challenge 15: Use the Spread Operator on Arrays</h1>
+
+      <h2>Code:</h2>
+      <pre>
+        {`const immutableReducer = (state = ['Do not mutate state!'], action) => {
+  switch(action.type) {
+    case 'ADD_TO_DO':
+      return [...state, action.todo];
+    default:
+      return state;
+  }
+};`}
+      </pre>
+
+      <h2>Output:</h2>
+      <ul>
+        {store.getState().map((todo, index) => (
+          <li key={index}>{todo}</li>
+        ))}
+      </ul>
+    </div>
+  );
+};
 
 const root = createRoot(document.getElementById("root"));
 root.render(<App />);
