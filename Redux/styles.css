@@ -1,7 +1,49 @@
 body {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 1rem;
+  background-color: #1e1e2f;
+  color: #f5f5f5;
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: #ffdd57;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  color: #9cdcfe;
+}
+
+pre {
+  background-color: #2d2d3a;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  color: #e0e0e0;
+}
+
+code {
+  font-family: 'Source Code Pro', monospace;
+  color: #c586c0;
+}
+
+div {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+a {
+  color: #4fc3f7;
+}
+
+h3 {
+  font-weight: normal;
+  color: #cccccc;
 }
