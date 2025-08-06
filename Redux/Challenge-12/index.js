@@ -56,11 +56,13 @@ wait 2.5 seconds
 dispatch(receivedData(users))`}
       </pre>
       <h2>Output: </h2>
-      {state.fetching ? (
-        <h3>Loading...</h3>
-      ) : (
-        <h3>Users: {state.users.join(", ")}</h3>
-      )}
+      <pre>
+        {state.fetching ? (
+          <h3>Loading...</h3>
+        ) : (
+          <h3>Users: {state.users.join(", ")}</h3>
+        )}
+      </pre>
     </div>
   );
 };
