@@ -726,7 +726,8 @@ const App = ()=>{
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("pre", {
-                children: `const INCREMENT = "INCREMENT";
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
+                    children: `const INCREMENT = "INCREMENT";
 const DECREMENT = "DECREMENT";
 
 const counterReducer = (state = 0, action) => {
@@ -739,6 +740,11 @@ const counterReducer = (state = 0, action) => {
 
 const incAction = () => ({ type: INCREMENT });
 const decAction = () => ({ type: DECREMENT });`
+                }, void 0, false, {
+                    fileName: "index.js",
+                    lineNumber: 40,
+                    columnNumber: 9
+                }, undefined)
             }, void 0, false, {
                 fileName: "index.js",
                 lineNumber: 39,
@@ -748,7 +754,7 @@ const decAction = () => ({ type: DECREMENT });`
                 children: "Output:"
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 55,
+                lineNumber: 57,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("pre", {
@@ -760,7 +766,7 @@ const decAction = () => ({ type: DECREMENT });`
                         ]
                     }, void 0, true, {
                         fileName: "index.js",
-                        lineNumber: 57,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -768,7 +774,7 @@ const decAction = () => ({ type: DECREMENT });`
                         children: "Increment"
                     }, void 0, false, {
                         fileName: "index.js",
-                        lineNumber: 58,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
@@ -776,13 +782,13 @@ const decAction = () => ({ type: DECREMENT });`
                         children: "Decrement"
                     }, void 0, false, {
                         fileName: "index.js",
-                        lineNumber: 59,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "index.js",
-                lineNumber: 56,
+                lineNumber: 58,
                 columnNumber: 7
             }, undefined)
         ]
@@ -797,7 +803,7 @@ _c = App;
 const root = (0, _client.createRoot)(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "index.js",
-    lineNumber: 66,
+    lineNumber: 68,
     columnNumber: 13
 }, undefined));
 var _c;
