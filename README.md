@@ -65,7 +65,7 @@
   - [React 46](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-46/)  
   - [React 47](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-47/)  
 
-### ReduxChallenges:
+### Redux Challenges:
   - [Redux 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-1/)  
   - [Redux 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-2/)  
   - [Redux 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-3/)  
