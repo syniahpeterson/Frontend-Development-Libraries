@@ -34,7 +34,7 @@ const App = () => {
     <div>
       <h1>Challenge 14: Never Mutate State</h1>
       <h2>Code:</h2>
-      <pre>
+      <pre><code>
         {`const immutableReducer = (state = todos, action) => {
   switch(action.type) {
     case ADD_TO_DO:
@@ -42,15 +42,17 @@ const App = () => {
     default:
       return state;
   }
-};`}
+};`}</code>
       </pre>
 
       <h2>Output:</h2>
+      <pre>
       <ul>
         {store.getState().map((todo, index) => (
           <li key={index}>{todo}</li>
         ))}
       </ul>
+      </pre>
     </div>
   );
 };
