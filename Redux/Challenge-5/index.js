@@ -22,8 +22,10 @@ const App = () => {
         <code>store.dispatch(loginAction());</code>
       </pre>
       <h2>Output: </h2>
-      <pre>Dispatched Action: {JSON.stringify(loginAction())}</pre>
-      <pre>Current State: {JSON.stringify(store.getState())}</pre>
+      <pre>
+        <p>Dispatched Action: {JSON.stringify(loginAction())}</p>
+        <p>Current State: {JSON.stringify(store.getState())}</p>
+      </pre>
     </div>
   );
 };
