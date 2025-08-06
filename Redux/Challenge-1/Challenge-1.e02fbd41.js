@@ -723,7 +723,7 @@ const store = createStore(reducer);`
                 lineNumber: 24,
                 columnNumber: 7
             }, undefined),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("pre", {
                 children: store.getState()
             }, void 0, false, {
                 fileName: "index.js",
