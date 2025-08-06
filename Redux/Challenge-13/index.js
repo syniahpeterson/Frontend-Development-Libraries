@@ -37,7 +37,8 @@ const App = () => {
 
       <h2>Code:</h2>
       <pre>
-        {`const INCREMENT = "INCREMENT";
+        <code>
+          {`const INCREMENT = "INCREMENT";
 const DECREMENT = "DECREMENT";
 
 const counterReducer = (state = 0, action) => {
@@ -50,6 +51,7 @@ const counterReducer = (state = 0, action) => {
 
 const incAction = () => ({ type: INCREMENT });
 const decAction = () => ({ type: DECREMENT });`}
+        </code>
       </pre>
 
       <h2>Output:</h2>
