@@ -6,61 +6,80 @@
   - [jQuery](https://syniahpeterson.github.io/Frontend-Development-Libraries/jQuery)
 
 ### SASS Challenges:
-  - [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html){:target="_blank"}  
-  - [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html){:target="_blank"}  
-  - [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html){:target="_blank"}  
-  - [SASS 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge4.html){:target="_blank"}  
-  - [SASS 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge5.html){:target="_blank"}  
-  - [SASS 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge6.html){:target="_blank"}  
-  - [SASS 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge7.html){:target="_blank"}  
-  - [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html){:target="_blank"}  
-  - [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html){:target="_blank"}
+  - [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html)  
+  - [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html)  
+  - [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html)  
+  - [SASS 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge4.html)  
+  - [SASS 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge5.html)  
+  - [SASS 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge6.html)  
+  - [SASS 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge7.html)   
+  - [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html)  
+  - [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html)
 
 ### React Challenges:
-  - [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/){:target="_blank"}
-  - [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/){:target="_blank"}
-  - [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/){:target="_blank"}
-  - [React 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-4/){:target="_blank"}
-  - [React 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-5/){:target="_blank"}
-  - [React 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-6/){:target="_blank"}
-  - [React 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-7/){:target="_blank"}
-  - [React 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-8/){:target="_blank"}
-  - [React 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-9/){:target="_blank"}
-  - [React 10](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-10/){:target="_blank"}
-  - [React 11](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-11/){:target="_blank"}
-  - [React 12](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-12/){:target="_blank"}
-  - [React 13](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-13/){:target="_blank"}
-  - [React 14](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-14/){:target="_blank"}
-  - [React 15](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-15/){:target="_blank"}
-  - [React 16](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-16/){:target="_blank"}
-  - [React 17](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-17/){:target="_blank"}
-  - [React 18](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-18/){:target="_blank"}
-  - [React 19](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-19/){:target="_blank"}
-  - [React 20](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-20/){:target="_blank"}
-  - [React 21](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-21/){:target="_blank"}
-  - [React 22](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-22/){:target="_blank"}
-  - [React 23](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-23/){:target="_blank"}
-  - [React 24](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-24/){:target="_blank"}
-  - [React 25](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-25/){:target="_blank"}
-  - [React 26](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-26/){:target="_blank"}
-  - [React 27](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-27/){:target="_blank"}
-  - [React 28](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-28/){:target="_blank"}
-  - [React 29](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-29/){:target="_blank"}
-  - [React 30](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-30/){:target="_blank"}
-  - [React 31](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-31/){:target="_blank"}
-  - [React 32](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-32/){:target="_blank"}
-  - [React 33](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-33/){:target="_blank"}
-  - [React 34](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-34/){:target="_blank"}
-  - [React 35](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-35/){:target="_blank"}
-  - [React 36](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-36/){:target="_blank"}
-  - [React 37](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-37/){:target="_blank"}
-  - [React 38](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-38/){:target="_blank"}
-  - [React 39](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-39/){:target="_blank"}
-  - [React 40](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-40/){:target="_blank"}
-  - [React 41](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-41/){:target="_blank"}
-  - [React 42](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-42/){:target="_blank"}
-  - [React 43](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-43/){:target="_blank"}
-  - [React 44](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-44/){:target="_blank"}
-  - [React 45](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-45/){:target="_blank"}
-  - [React 46](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-46/){:target="_blank"}
-  - [React 47](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-47/){:target="_blank"}
+  - [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/)  
+  - [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/)  
+  - [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/)  
+  - [React 4](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-4/)  
+  - [React 5](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-5/)  
+  - [React 6](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-6/)  
+  - [React 7](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-7/)  
+  - [React 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-8/)  
+  - [React 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-9/)  
+  - [React 10](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-10/)  
+  - [React 11](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-11/)  
+  - [React 12](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-12/)  
+  - [React 13](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-13/)  
+  - [React 14](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-14/)  
+  - [React 15](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-15/)  
+  - [React 16](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-16/)  
+  - [React 17](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-17/)  
+  - [React 18](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-18/)  
+  - [React 19](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-19/)  
+  - [React 20](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-20/)  
+  - [React 21](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-21/)  
+  - [React 22](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-22/)  
+  - [React 23](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-23/)  
+  - [React 24](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-24/)  
+  - [React 25](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-25/)  
+  - [React 26](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-26/)  
+  - [React 27](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-27/)  
+  - [React 28](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-28/)  
+  - [React 29](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-29/)  
+  - [React 30](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-30/)  
+  - [React 31](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-31/)  
+  - [React 32](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-32/)  
+  - [React 33](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-33/)  
+  - [React 34](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-34/)  
+  - [React 35](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-35/)  
+  - [React 36](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-36/)  
+  - [React 37](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-37/)  
+  - [React 38](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-38/)  
+  - [React 39](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-39/)  
+  - [React 40](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-40/)  
+  - [React 41](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-41/)  
+  - [React 42](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-42/)  
+  - [React 43](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-43/)  
+  - [React 44](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-44/)  
+  - [React 45](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-45/)  
+  - [React 46](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-46/)  
+  - [React 47](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-47/)  
+
+### ReduxChallenges:
+  - [Redux1](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-1/)  
+  - [Redux2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-2/)  
+  - [Redux3](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-3/)  
+  - [Redux4](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-4/)  
+  - [Redux5](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-5/)  
+  - [Redux6](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-6/)  
+  - [Redux7](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-7/)  
+  - [Redux8](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-8/)  
+  - [Redux9](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-9/)  
+  - [Redux10](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-10/)  
+  - [Redux11](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-11/)  
+  - [Redux12](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-12/)  
+  - [Redux13](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-13/)  
+  - [Redux14](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-14/)  
+  - [Redux15](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-15/)  
+  - [Redux16](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-16/)  
+  - [Redux17](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-17/)  
