@@ -32,7 +32,7 @@ const App = () => {
     <div>
       <h1>Challenge 16: Remove an Item from an Array</h1>
       <h2>Code:</h2>
-      <pre>{`
+      <pre><code>{`
 const immutableReducer = (state = [0,1,2,3,4,5], action) => {
   switch(action.type) {
     case 'REMOVE_ITEM':
@@ -46,7 +46,7 @@ const immutableReducer = (state = [0,1,2,3,4,5], action) => {
 };
 
 store.dispatch(removeItem(2));
-      `}</pre>
+      `}</code></pre>
       <h2>Output:</h2>
       <pre>{JSON.stringify(currentState)}</pre>
     </div>
