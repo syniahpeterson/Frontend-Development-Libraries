@@ -53,9 +53,11 @@ const decAction = () => ({ type: DECREMENT });`}
       </pre>
 
       <h2>Output:</h2>
-      <h3>Count: {count}</h3>
-      <button onClick={() => store.dispatch(incAction())}>Increment</button>
-      <button onClick={() => store.dispatch(decAction())}>Decrement</button>
+      <pre>
+        <h3>Count: {count}</h3>
+        <button onClick={() => store.dispatch(incAction())}>Increment</button>
+        <button onClick={() => store.dispatch(decAction())}>Decrement</button>
+      </pre>
     </div>
   );
 };
