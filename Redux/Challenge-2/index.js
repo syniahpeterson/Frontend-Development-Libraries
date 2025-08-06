@@ -21,7 +21,7 @@ const currentState = store.getState();`}
       </pre>
 
       <h2>Output:</h2>
-      <h3>{currentState}</h3>
+      <pre>{currentState}</pre>
     </div>
   );
 };

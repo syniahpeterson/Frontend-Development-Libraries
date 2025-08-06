@@ -22,7 +22,7 @@ const store = createStore(reducer);`}
       </pre>
 
       <h2>Output:</h2>
-      <h3>{store.getState()}</h3>
+      <pre>{store.getState()}</pre>
     </div>
   );
 };

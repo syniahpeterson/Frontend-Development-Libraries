@@ -17,7 +17,7 @@ const App = () => {
       </pre>
 
       <h2>Output:</h2>
-      <h3>{action.type}</h3>
+      <pre>{action.type}</pre>
     </div>
   );
 };

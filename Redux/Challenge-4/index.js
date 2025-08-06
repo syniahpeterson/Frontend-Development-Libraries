@@ -25,7 +25,7 @@ const actionCreator = () => {
         </code>
       </pre>
       <h2>Output: </h2>
-      <h3>Action type: {actionCreator().type}</h3>
+      <pre>Action type: {actionCreator().type}</pre>
     </div>
   );
 };
