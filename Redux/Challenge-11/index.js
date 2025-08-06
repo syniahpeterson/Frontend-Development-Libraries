@@ -55,12 +55,14 @@ const addNoteText = (note) => ({
       </pre>
 
       <h2>Output:</h2>
+      <pre>
       <p>
         <strong>Initial State:</strong> "Initial State"
       </p>
       <p>
         <strong>After dispatch:</strong> "{store.getState()}"
       </p>
+      </pre>
     </div>
   );
 };
