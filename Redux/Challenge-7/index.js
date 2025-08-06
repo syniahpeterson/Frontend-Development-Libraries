@@ -38,7 +38,8 @@ const App = () => (
 
     <h2>Code:</h2>
     <pre>
-      {`switch (action.type) {
+      <code>
+        {`switch (action.type) {
   case "LOGIN":
     return { authenticated: true };
   case "LOGOUT":
@@ -46,15 +47,18 @@ const App = () => (
   default:
     return state;
 }`}
+      </code>
     </pre>
 
     <h2>Output:</h2>
-    <p>
-      <strong>After LOGIN:</strong> {JSON.stringify(afterLogin)}
-    </p>
-    <p>
-      <strong>After LOGOUT:</strong> {JSON.stringify(afterLogout)}
-    </p>
+    <pre>
+      <p>
+        <strong>After LOGIN:</strong> {JSON.stringify(afterLogin)}
+      </p>
+      <p>
+        <strong>After LOGOUT:</strong> {JSON.stringify(afterLogout)}
+      </p>
+    </pre>
   </div>
 );
 

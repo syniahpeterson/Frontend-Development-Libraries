@@ -49,12 +49,14 @@ const LOGOUT = "LOGOUT";`}
       </pre>
 
       <h2>Output:</h2>
-      <p>
-        <strong>After LOGIN:</strong> {JSON.stringify(afterLogin)}
-      </p>
-      <p>
-        <strong>After LOGOUT:</strong> {JSON.stringify(afterLogout)}
-      </p>
+      <pre>
+        <p>
+          <strong>After LOGIN:</strong> {JSON.stringify(afterLogin)}
+        </p>
+        <p>
+          <strong>After LOGOUT:</strong> {JSON.stringify(afterLogout)}
+        </p>
+      </pre>
     </div>
   );
 };
