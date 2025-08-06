@@ -5,7 +5,7 @@
 ### jQuery Challenges
   - [jQuery](https://syniahpeterson.github.io/Frontend-Development-Libraries/jQuery)
 
-### SASS Challenges:
+### SASS Challenges
   - [SASS 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge1.html)  
   - [SASS 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge2.html)  
   - [SASS 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge3.html)  
@@ -16,7 +16,7 @@
   - [SASS 8](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge8.html)  
   - [SASS 9](https://syniahpeterson.github.io/Frontend-Development-Libraries/SASS/challenge9.html)
 
-### React Challenges:
+### React Challenges
   - [React 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-1/)  
   - [React 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-2/)  
   - [React 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-3/)  
@@ -65,7 +65,7 @@
   - [React 46](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-46/)  
   - [React 47](https://syniahpeterson.github.io/Frontend-Development-Libraries/React/Challenge-47/)  
 
-### Redux Challenges:
+### Redux Challenges
   - [Redux 1](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-1/)  
   - [Redux 2](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-2/)  
   - [Redux 3](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-3/)  
