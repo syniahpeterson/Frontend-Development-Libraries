@@ -58,7 +58,9 @@ const App = () => {
     <div>
       <h1>Challenge 17: Copy an Object with Object.assign</h1>
       <h2>Code:</h2>
-      <pre>{code}</pre>
+      <pre>
+        <code>{code}</code>
+      </pre>
       <h2>Output:</h2>
       <pre>{JSON.stringify(store.getState(), null, 2)}</pre>
     </div>
