@@ -31,7 +31,8 @@ const App = () => {
 
       <h2>Code:</h2>
       <pre>
-        {`const immutableReducer = (state = ['Do not mutate state!'], action) => {
+        <code>
+          {`const immutableReducer = (state = ['Do not mutate state!'], action) => {
   switch(action.type) {
     case 'ADD_TO_DO':
       return [...state, action.todo];
@@ -39,14 +40,17 @@ const App = () => {
       return state;
   }
 };`}
+        </code>
       </pre>
 
       <h2>Output:</h2>
-      <ul>
-        {store.getState().map((todo, index) => (
-          <li key={index}>{todo}</li>
-        ))}
-      </ul>
+      <pre>
+        <ul>
+          {store.getState().map((todo, index) => (
+            <li key={index}>{todo}</li>
+          ))}
+        </ul>
+      </pre>
     </div>
   );
 };
