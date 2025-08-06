@@ -33,13 +33,15 @@ const App = () => {
 
       <h2>Code:</h2>
       <pre>
-        {`const defaultState = { login: false };
+        <code>
+          {`const defaultState = { login: false };
 const reducer = (state = defaultState, action) => {
   if (action.type === "LOGIN") {
     return { ...state, login: true };
   }
   return state;
 };`}
+        </code>
       </pre>
 
       <h2>Output:</h2>

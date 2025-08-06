@@ -49,7 +49,7 @@ store.dispatch({ type: ADD });`}
       </pre>
 
       <h2>Output:</h2>
-      <h3>Listener called: {count} times</h3>
+      <pre>Listener called: {count} times</pre>
     </div>
   );
 };
