@@ -752,9 +752,15 @@ const App = ()=>{
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("pre", {
-                children: `dispatch(requestingData())
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
+                    children: `dispatch(requestingData())
 wait 2.5 seconds
 dispatch(receivedData(users))`
+                }, void 0, false, {
+                    fileName: "index.js",
+                    lineNumber: 54,
+                    columnNumber: 9
+                }, undefined)
             }, void 0, false, {
                 fileName: "index.js",
                 lineNumber: 53,
@@ -764,7 +770,7 @@ dispatch(receivedData(users))`
                 children: "Output: "
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 58,
+                lineNumber: 60,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("pre", {
@@ -772,7 +778,7 @@ dispatch(receivedData(users))`
                     children: "Loading..."
                 }, void 0, false, {
                     fileName: "index.js",
-                    lineNumber: 61,
+                    lineNumber: 63,
                     columnNumber: 11
                 }, undefined) : /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
                     children: [
@@ -781,12 +787,12 @@ dispatch(receivedData(users))`
                     ]
                 }, void 0, true, {
                     fileName: "index.js",
-                    lineNumber: 63,
+                    lineNumber: 65,
                     columnNumber: 11
                 }, undefined)
             }, void 0, false, {
                 fileName: "index.js",
-                lineNumber: 59,
+                lineNumber: 61,
                 columnNumber: 7
             }, undefined)
         ]
@@ -801,7 +807,7 @@ _c = App;
 const root = (0, _client.createRoot)(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(App, {}, void 0, false, {
     fileName: "index.js",
-    lineNumber: 71,
+    lineNumber: 73,
     columnNumber: 13
 }, undefined));
 var _c;

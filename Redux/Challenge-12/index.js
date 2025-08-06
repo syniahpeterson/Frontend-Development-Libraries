@@ -51,9 +51,11 @@ const App = () => {
       <h1>Challenge 12: Use Middleware to Handle Asynchronous Actions</h1>
       <h2>Code: </h2>
       <pre>
-        {`dispatch(requestingData())
+        <code>
+          {`dispatch(requestingData())
 wait 2.5 seconds
 dispatch(receivedData(users))`}
+        </code>
       </pre>
       <h2>Output: </h2>
       <pre>
