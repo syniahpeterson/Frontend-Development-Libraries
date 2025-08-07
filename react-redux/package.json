@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "freeCodeCamp React-Redux Challenges",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html",
-    "dev": "vite"
-  },
+  "build": "vite build",
+  "dev": "vite"
+},
   "devDependencies": {
     "@vitejs/plugin-react": "^4.7.0",
     "parcel": "^2.10.0",
