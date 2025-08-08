@@ -1,15 +1,15 @@
 {
-  "name": "react-redux",
+  "name": "challenge-1",
   "version": "1.0.0",
-  "type": "module",
-  "description": "freeCodeCamp React-Redux Challenges",
+  "description": "freeCodeCamp Redux Challenge 1",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --dist-dir dist --public-url ./",
+    "dev": "vite"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.7.0",
+    "parcel": "^2.10.0",
     "vite": "^7.0.6"
   },
   "dependencies": {
