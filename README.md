@@ -85,4 +85,7 @@
   - [Redux 17](https://syniahpeterson.github.io/Frontend-Development-Libraries/Redux/Challenge-17/)  
 
 ### React-Redux Challenges
-  - [React-Redux](https://syniahpeterson.github.io/Frontend-Development-Libraries/react-redux/)  
+  - [React-Redux](https://syniahpeterson.github.io/Frontend-Development-Libraries/react-redux/)
+
+### Final 5 Projects
+  - [Random Quote Machine](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Random-Quote-Machine/)
