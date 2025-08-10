@@ -53,7 +53,7 @@ const App = () => {
   const buttonStyle = {
     backgroundColor: color,
     borderColor: color,
-    color: "#fff", // buttons have white text
+    color: "#fff",
     transition: "background-color 1s ease, border-color 1s ease",
   };
 

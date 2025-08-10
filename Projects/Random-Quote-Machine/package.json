@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --dist-dir dist --public-url ./"
+    "build": "parcel build index.html --dist-dir dist --public-url ./",
+    "homepage": "https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Random-Quote-Machine/"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.0",
