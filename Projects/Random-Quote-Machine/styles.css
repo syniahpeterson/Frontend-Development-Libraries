@@ -1,8 +1,61 @@
+/* ------------------------------
+   Global body styles
+------------------------------ */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  transition: background-color 0.5s ease;
 }
 
+/* ------------------------------
+   Quote box card styling
+------------------------------ */
 #quote-box {
-  max-width: 700px;
+  max-width: 600px;
+  width: 100%;
+  background-color: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+/* ------------------------------
+   Quote text and author fade transitions
+------------------------------ */
+.quote-text,
+.quote-author {
+  transition: opacity 0.5s ease;
+}
+
+/* Fade classes for animation */
+.fade-out {
+  opacity: 0;
+}
+.fade-in {
+  opacity: 1;
+}
+
+/* ------------------------------
+   Font Awesome quotation marks
+------------------------------ */
+.quote-text i.fa-quote-left,
+.quote-text i.fa-quote-right {
+  font-size: 0.25em;
+  vertical-align: top;
+  margin: 0 0.2em;
+  color: inherit;
+}
+
+/* ------------------------------
+   Buttons styling
+------------------------------ */
+button,
+a.btn {
+  border: none;
+  transition: filter 0.3s ease;
+}
+
+button:hover,
+a.btn:hover {
+  filter: brightness(1.1);
 }

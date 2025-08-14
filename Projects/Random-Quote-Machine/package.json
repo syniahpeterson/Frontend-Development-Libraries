@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "parcel": "^2.9.0"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
