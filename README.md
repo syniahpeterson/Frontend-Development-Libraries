@@ -89,3 +89,4 @@
 
 ### Final 5 Projects
   - [Random Quote Machine](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Random-Quote-Machine/)
+  - [Markdown Previewer](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Markdown-Previewer)
