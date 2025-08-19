@@ -93,3 +93,8 @@
   - [Drum Machine](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Drum-Machine/)
   - [JavaScript Calculator](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/JavaScript-Calculator/)
   - [25 + 5 Clock](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/25+5-Clock/)
+
+
+
+  
+[Front End Development Libraries Certification](https://www.freecodecamp.org/certification/syniahpeterson/front-end-development-libraries)   
