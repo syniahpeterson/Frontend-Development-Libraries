@@ -89,4 +89,6 @@
 
 ### Final 5 Projects
   - [Random Quote Machine](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Random-Quote-Machine/)
-  - [Markdown Previewer](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Markdown-Previewer)
+  - [Markdown Previewer](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Markdown-Previewer/)
+  - [Drum Machine](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/Drum-Machine/)
+  - [JavaScript Calculator](https://syniahpeterson.github.io/Frontend-Development-Libraries/Projects/JavaScript-Calculator/)
