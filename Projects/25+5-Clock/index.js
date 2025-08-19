@@ -1,21 +1,18 @@
-/* React Imports */
 import { useState, useRef, useEffect } from "react";
 import { createRoot } from "react-dom/client";
 
-/* Main App Component */
 const App = () => {
-  /* State */
+  // Timer state
   const [breakLength, setBreakLength] = useState(5);
   const [sessionLength, setSessionLength] = useState(25);
   const [timeLeft, setTimeLeft] = useState(25 * 60);
   const [isRunning, setIsRunning] = useState(false);
   const [onBreak, setOnBreak] = useState(false);
 
-  /* Refs */
   const beepRef = useRef(null);
   const timerRef = useRef(null);
 
-  /* Format time as mm:ss */
+  // Format seconds to mm:ss
   const formatTime = (time) => {
     const minutes = Math.floor(time / 60);
     const seconds = time % 60;
@@ -26,7 +23,7 @@ const App = () => {
     );
   };
 
-  /* Determine glow color */
+  // Determine glow color
   const getBorderClass = () => {
     const total = onBreak ? breakLength * 60 : sessionLength * 60;
     const percent = timeLeft / total;
@@ -35,7 +32,7 @@ const App = () => {
     return "glow-green";
   };
 
-  /* Reset timer */
+  // Reset timer
   const handleReset = () => {
     clearInterval(timerRef.current);
     setBreakLength(5);
@@ -47,7 +44,7 @@ const App = () => {
     beepRef.current.currentTime = 0;
   };
 
-  /* Start / Pause timer */
+  // Start or pause timer
   const handleStartStop = () => {
     if (isRunning) {
       clearInterval(timerRef.current);
@@ -60,7 +57,7 @@ const App = () => {
     }
   };
 
-  /* Handle countdown and switching between break/session */
+  // Switch between session and break
   useEffect(() => {
     if (timeLeft < 0) {
       beepRef.current.play();
@@ -74,15 +71,12 @@ const App = () => {
     }
   }, [timeLeft, onBreak, breakLength, sessionLength]);
 
-  /* Change break length */
+  // Adjust break length
   const changeBreak = (amount) => {
-    setBreakLength((prev) => {
-      const newLength = Math.min(60, Math.max(1, prev + amount));
-      return newLength;
-    });
+    setBreakLength((prev) => Math.min(60, Math.max(1, prev + amount)));
   };
 
-  /* Change session length */
+  // Adjust session length
   const changeSession = (amount) => {
     setSessionLength((prev) => {
       const newLength = Math.min(60, Math.max(1, prev + amount));
@@ -91,14 +85,12 @@ const App = () => {
     });
   };
 
-  /* Render */
   return (
     <div className="container">
       <div className={`card ${getBorderClass()}`}>
         <h3 id="timer-label">{onBreak ? "Break" : "Session"}</h3>
         <h1 id="time-left">{formatTime(timeLeft < 0 ? 0 : timeLeft)}</h1>
 
-        {/* Controls */}
         <div className="controls">
           <div className="control-col">
             <h4 id="break-label">Break Length</h4>
@@ -138,7 +130,6 @@ const App = () => {
           </div>
         </div>
 
-        {/* Start / Reset Buttons */}
         <div>
           <button
             id="start_stop"
@@ -152,7 +143,6 @@ const App = () => {
           </button>
         </div>
 
-        {/* Audio */}
         <audio
           id="beep"
           preload="auto"
@@ -164,7 +154,6 @@ const App = () => {
   );
 };
 
-/* Render App */
 const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(<App />);

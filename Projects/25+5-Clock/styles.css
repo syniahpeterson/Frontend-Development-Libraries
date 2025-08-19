@@ -1,4 +1,4 @@
-/* Page Background */
+/* Page background */
 body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
@@ -10,10 +10,10 @@ body {
   min-height: 100vh;
 }
 
-/* Container */
+/* Container for clock and controls */
 .container {
   width: 95%;
-  max-width: 600px;
+  max-width: 1200px;
   text-align: center;
 }
 
@@ -24,9 +24,12 @@ body {
   padding: 2rem;
   text-align: center;
   transition: border-color 0.8s ease, box-shadow 0.8s ease;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-/* Glow States */
+/* Glow states */
 .glow-green {
   border-color: #28a745;
   box-shadow: 0 0 60px 20px rgba(40, 167, 69, 0.6);
@@ -40,8 +43,6 @@ body {
   box-shadow: 0 0 60px 20px rgba(220, 53, 69, 0.7);
   animation: pulse 1s infinite alternate;
 }
-
-/* Red Glow Animation */
 @keyframes pulse {
   from {
     box-shadow: 0 0 60px 20px rgba(220, 53, 69, 0.5);
@@ -51,28 +52,33 @@ body {
   }
 }
 
-/* Timer Text */
+/* Timer text */
 #timer-label {
-  font-size: clamp(1.5rem, 5vw, 3rem);
+  font-size: clamp(1.5rem, 4vw, 3rem);
   margin-bottom: 1rem;
 }
 #time-left {
-  font-size: clamp(3rem, 12vw, 8rem);
+  font-size: clamp(2.5rem, 10vw, 6rem);
   font-weight: bold;
   margin-bottom: 2rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* Controls Layout */
+/* Controls layout */
 .controls {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 1rem;
   margin-bottom: 2rem;
 }
 .control-col {
-  flex: 1 1 45%;
-  min-width: 150px;
-  margin: 0.5rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
 }
 
 /* Buttons */
@@ -85,13 +91,11 @@ button {
   cursor: pointer;
   transition: transform 0.2s ease-in-out, background-color 0.2s ease;
 }
-
-/* Button Hover Effects */
 button:hover {
   transform: scale(1.05);
 }
 
-/* Outline-light Buttons */
+/* Outline-light buttons always visible */
 .btn-outline-light {
   background-color: rgba(255, 255, 255, 0.2);
   color: black;
@@ -102,7 +106,7 @@ button:hover {
   background-color: rgba(200, 200, 200, 0.4);
 }
 
-/* Start/Pause & Reset Buttons */
+/* Start/Pause & Reset hover */
 .btn-success:hover {
   background-color: #218838;
 }
